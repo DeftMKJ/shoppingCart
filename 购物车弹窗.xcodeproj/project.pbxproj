@@ -7,6 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2C9F39BDFC828554AFE712D5 /* libPods-购物车弹窗.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 276B8B743DACE14A3E47BCAF /* libPods-购物车弹窗.a */; };
+		694D0F611D1D04B900DFF393 /* addComment@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 694D0F5E1D1D04B900DFF393 /* addComment@2x.png */; };
+		694D0F621D1D04B900DFF393 /* addComment@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 694D0F5F1D1D04B900DFF393 /* addComment@3x.png */; };
+		694D0F631D1D04B900DFF393 /* Contents.json in Resources */ = {isa = PBXBuildFile; fileRef = 694D0F601D1D04B900DFF393 /* Contents.json */; };
 		696576D71D1BCD23004A132F /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 696576D61D1BCD23004A132F /* main.m */; };
 		696576DA1D1BCD23004A132F /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 696576D91D1BCD23004A132F /* AppDelegate.m */; };
 		696576DD1D1BCD23004A132F /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 696576DC1D1BCD23004A132F /* ViewController.m */; };
@@ -15,6 +19,18 @@
 		696576E51D1BCD23004A132F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 696576E31D1BCD23004A132F /* LaunchScreen.storyboard */; };
 		696576F01D1BCD23004A132F /* _____Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 696576EF1D1BCD23004A132F /* _____Tests.m */; };
 		696576FB1D1BCD23004A132F /* _____UITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 696576FA1D1BCD23004A132F /* _____UITests.m */; };
+		6965770D1D1BCEE8004A132F /* 26145429985_1cbb5d9440_o-1400x933.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6965770C1D1BCEE8004A132F /* 26145429985_1cbb5d9440_o-1400x933.jpg */; };
+		696577111D1BCFCA004A132F /* ChooseGoodsPropertyViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6965770F1D1BCFCA004A132F /* ChooseGoodsPropertyViewController.m */; };
+		696577121D1BCFCA004A132F /* ChooseGoodsPropertyViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 696577101D1BCFCA004A132F /* ChooseGoodsPropertyViewController.xib */; };
+		696577141D1BD3DD004A132F /* FE9C970DA8AD4263ABA40AFA572A0538.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 696577131D1BD3DD004A132F /* FE9C970DA8AD4263ABA40AFA572A0538.jpg */; };
+		696577181D1BD668004A132F /* ProductTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 696577161D1BD668004A132F /* ProductTableViewCell.m */; };
+		696577191D1BD668004A132F /* ProductTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 696577171D1BD668004A132F /* ProductTableViewCell.xib */; };
+		6965771E1D1BD680004A132F /* CountTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 6965771C1D1BD680004A132F /* CountTableViewCell.xib */; };
+		6965772C1D1BE141004A132F /* KLCPopup.m in Sources */ = {isa = PBXBuildFile; fileRef = 6965772B1D1BE141004A132F /* KLCPopup.m */; };
+		6965772F1D1BED85004A132F /* UIImage+ImageCompress.m in Sources */ = {isa = PBXBuildFile; fileRef = 6965772E1D1BED85004A132F /* UIImage+ImageCompress.m */; };
+		696577341D1BFDEA004A132F /* alowButton@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 696577311D1BFDEA004A132F /* alowButton@2x.png */; };
+		696577351D1BFDEA004A132F /* alowButton@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 696577321D1BFDEA004A132F /* alowButton@3x.png */; };
+		696577361D1BFDEA004A132F /* Contents.json in Resources */ = {isa = PBXBuildFile; fileRef = 696577331D1BFDEA004A132F /* Contents.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,6 +51,11 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		0E9152403C6BE91B16FA6BA4 /* Pods-购物车弹窗.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-购物车弹窗.release.xcconfig"; path = "Pods/Target Support Files/Pods-购物车弹窗/Pods-购物车弹窗.release.xcconfig"; sourceTree = "<group>"; };
+		276B8B743DACE14A3E47BCAF /* libPods-购物车弹窗.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-购物车弹窗.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		694D0F5E1D1D04B900DFF393 /* addComment@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "addComment@2x.png"; sourceTree = "<group>"; };
+		694D0F5F1D1D04B900DFF393 /* addComment@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "addComment@3x.png"; sourceTree = "<group>"; };
+		694D0F601D1D04B900DFF393 /* Contents.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Contents.json; sourceTree = "<group>"; };
 		696576D21D1BCD23004A132F /* 购物车弹窗.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "购物车弹窗.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		696576D61D1BCD23004A132F /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		696576D81D1BCD23004A132F /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -51,6 +72,23 @@
 		696576F61D1BCD23004A132F /* 购物车弹窗UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "购物车弹窗UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		696576FA1D1BCD23004A132F /* _____UITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "_____UITests.m"; sourceTree = "<group>"; };
 		696576FC1D1BCD23004A132F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6965770C1D1BCEE8004A132F /* 26145429985_1cbb5d9440_o-1400x933.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "26145429985_1cbb5d9440_o-1400x933.jpg"; sourceTree = "<group>"; };
+		6965770E1D1BCFCA004A132F /* ChooseGoodsPropertyViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ChooseGoodsPropertyViewController.h; sourceTree = "<group>"; };
+		6965770F1D1BCFCA004A132F /* ChooseGoodsPropertyViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ChooseGoodsPropertyViewController.m; sourceTree = "<group>"; };
+		696577101D1BCFCA004A132F /* ChooseGoodsPropertyViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ChooseGoodsPropertyViewController.xib; sourceTree = "<group>"; };
+		696577131D1BD3DD004A132F /* FE9C970DA8AD4263ABA40AFA572A0538.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = FE9C970DA8AD4263ABA40AFA572A0538.jpg; sourceTree = "<group>"; };
+		696577151D1BD668004A132F /* ProductTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ProductTableViewCell.h; sourceTree = "<group>"; };
+		696577161D1BD668004A132F /* ProductTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ProductTableViewCell.m; sourceTree = "<group>"; };
+		696577171D1BD668004A132F /* ProductTableViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ProductTableViewCell.xib; sourceTree = "<group>"; };
+		6965771C1D1BD680004A132F /* CountTableViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = CountTableViewCell.xib; sourceTree = "<group>"; };
+		6965772A1D1BE141004A132F /* KLCPopup.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KLCPopup.h; sourceTree = "<group>"; };
+		6965772B1D1BE141004A132F /* KLCPopup.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KLCPopup.m; sourceTree = "<group>"; };
+		6965772D1D1BED85004A132F /* UIImage+ImageCompress.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImage+ImageCompress.h"; sourceTree = "<group>"; };
+		6965772E1D1BED85004A132F /* UIImage+ImageCompress.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImage+ImageCompress.m"; sourceTree = "<group>"; };
+		696577311D1BFDEA004A132F /* alowButton@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "alowButton@2x.png"; sourceTree = "<group>"; };
+		696577321D1BFDEA004A132F /* alowButton@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "alowButton@3x.png"; sourceTree = "<group>"; };
+		696577331D1BFDEA004A132F /* Contents.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Contents.json; sourceTree = "<group>"; };
+		BAB5C76D1E516934E2B02BF5 /* Pods-购物车弹窗.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-购物车弹窗.debug.xcconfig"; path = "Pods/Target Support Files/Pods-购物车弹窗/Pods-购物车弹窗.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +96,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2C9F39BDFC828554AFE712D5 /* libPods-购物车弹窗.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -78,6 +117,31 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		694D0F5D1D1D04B900DFF393 /* addComment.imageset */ = {
+			isa = PBXGroup;
+			children = (
+				694D0F711D1D416300DFF393 /* 111 */,
+				694D0F5E1D1D04B900DFF393 /* addComment@2x.png */,
+				694D0F5F1D1D04B900DFF393 /* addComment@3x.png */,
+				694D0F601D1D04B900DFF393 /* Contents.json */,
+			);
+			path = addComment.imageset;
+			sourceTree = "<group>";
+		};
+		694D0F701D1D413100DFF393 /* 111 */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = 111;
+			sourceTree = "<group>";
+		};
+		694D0F711D1D416300DFF393 /* 111 */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = 111;
+			sourceTree = "<group>";
+		};
 		696576C91D1BCD23004A132F = {
 			isa = PBXGroup;
 			children = (
@@ -85,6 +149,8 @@
 				696576EE1D1BCD23004A132F /* 购物车弹窗Tests */,
 				696576F91D1BCD23004A132F /* 购物车弹窗UITests */,
 				696576D31D1BCD23004A132F /* Products */,
+				DA1E7E190A38C3AFC7D7BC57 /* Pods */,
+				7CEAFAA2A49D4B5EC2A12E70 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -101,8 +167,22 @@
 		696576D41D1BCD23004A132F /* 购物车弹窗 */ = {
 			isa = PBXGroup;
 			children = (
+				696577301D1BFDEA004A132F /* alowButton.imageset */,
+				6965772D1D1BED85004A132F /* UIImage+ImageCompress.h */,
+				6965772E1D1BED85004A132F /* UIImage+ImageCompress.m */,
+				694D0F5D1D1D04B900DFF393 /* addComment.imageset */,
+				696577291D1BE141004A132F /* KLCPopup */,
+				6965770C1D1BCEE8004A132F /* 26145429985_1cbb5d9440_o-1400x933.jpg */,
+				696577131D1BD3DD004A132F /* FE9C970DA8AD4263ABA40AFA572A0538.jpg */,
 				696576D81D1BCD23004A132F /* AppDelegate.h */,
 				696576D91D1BCD23004A132F /* AppDelegate.m */,
+				6965770E1D1BCFCA004A132F /* ChooseGoodsPropertyViewController.h */,
+				6965770F1D1BCFCA004A132F /* ChooseGoodsPropertyViewController.m */,
+				696577101D1BCFCA004A132F /* ChooseGoodsPropertyViewController.xib */,
+				696577151D1BD668004A132F /* ProductTableViewCell.h */,
+				696577161D1BD668004A132F /* ProductTableViewCell.m */,
+				696577171D1BD668004A132F /* ProductTableViewCell.xib */,
+				6965771C1D1BD680004A132F /* CountTableViewCell.xib */,
 				696576DB1D1BCD23004A132F /* ViewController.h */,
 				696576DC1D1BCD23004A132F /* ViewController.m */,
 				696576DE1D1BCD23004A132F /* Main.storyboard */,
@@ -140,6 +220,43 @@
 			path = "购物车弹窗UITests";
 			sourceTree = "<group>";
 		};
+		696577291D1BE141004A132F /* KLCPopup */ = {
+			isa = PBXGroup;
+			children = (
+				6965772A1D1BE141004A132F /* KLCPopup.h */,
+				6965772B1D1BE141004A132F /* KLCPopup.m */,
+			);
+			path = KLCPopup;
+			sourceTree = "<group>";
+		};
+		696577301D1BFDEA004A132F /* alowButton.imageset */ = {
+			isa = PBXGroup;
+			children = (
+				694D0F701D1D413100DFF393 /* 111 */,
+				696577311D1BFDEA004A132F /* alowButton@2x.png */,
+				696577321D1BFDEA004A132F /* alowButton@3x.png */,
+				696577331D1BFDEA004A132F /* Contents.json */,
+			);
+			path = alowButton.imageset;
+			sourceTree = "<group>";
+		};
+		7CEAFAA2A49D4B5EC2A12E70 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				276B8B743DACE14A3E47BCAF /* libPods-购物车弹窗.a */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		DA1E7E190A38C3AFC7D7BC57 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				BAB5C76D1E516934E2B02BF5 /* Pods-购物车弹窗.debug.xcconfig */,
+				0E9152403C6BE91B16FA6BA4 /* Pods-购物车弹窗.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -147,9 +264,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 696576FF1D1BCD23004A132F /* Build configuration list for PBXNativeTarget "购物车弹窗" */;
 			buildPhases = (
+				6E25B2BF2B4E3586AC4A1953 /* 📦 Check Pods Manifest.lock */,
 				696576CE1D1BCD23004A132F /* Sources */,
 				696576CF1D1BCD23004A132F /* Frameworks */,
 				696576D01D1BCD23004A132F /* Resources */,
+				E9B0DE0B7AFE31A79ED03219 /* 📦 Embed Pods Frameworks */,
+				66606ADE69DD387CADC8261E /* 📦 Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -243,9 +363,20 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				696577141D1BD3DD004A132F /* FE9C970DA8AD4263ABA40AFA572A0538.jpg in Resources */,
 				696576E51D1BCD23004A132F /* LaunchScreen.storyboard in Resources */,
 				696576E21D1BCD23004A132F /* Assets.xcassets in Resources */,
+				6965771E1D1BD680004A132F /* CountTableViewCell.xib in Resources */,
+				696577351D1BFDEA004A132F /* alowButton@3x.png in Resources */,
+				694D0F621D1D04B900DFF393 /* addComment@3x.png in Resources */,
+				696577191D1BD668004A132F /* ProductTableViewCell.xib in Resources */,
+				696577341D1BFDEA004A132F /* alowButton@2x.png in Resources */,
 				696576E01D1BCD23004A132F /* Main.storyboard in Resources */,
+				696577121D1BCFCA004A132F /* ChooseGoodsPropertyViewController.xib in Resources */,
+				696577361D1BFDEA004A132F /* Contents.json in Resources */,
+				694D0F611D1D04B900DFF393 /* addComment@2x.png in Resources */,
+				6965770D1D1BCEE8004A132F /* 26145429985_1cbb5d9440_o-1400x933.jpg in Resources */,
+				694D0F631D1D04B900DFF393 /* Contents.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -265,6 +396,54 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		66606ADE69DD387CADC8261E /* 📦 Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "📦 Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-购物车弹窗/Pods-购物车弹窗-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		6E25B2BF2B4E3586AC4A1953 /* 📦 Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "📦 Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		E9B0DE0B7AFE31A79ED03219 /* 📦 Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "📦 Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-购物车弹窗/Pods-购物车弹窗-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		696576CE1D1BCD23004A132F /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
@@ -273,6 +452,10 @@
 				696576DD1D1BCD23004A132F /* ViewController.m in Sources */,
 				696576DA1D1BCD23004A132F /* AppDelegate.m in Sources */,
 				696576D71D1BCD23004A132F /* main.m in Sources */,
+				6965772C1D1BE141004A132F /* KLCPopup.m in Sources */,
+				696577181D1BD668004A132F /* ProductTableViewCell.m in Sources */,
+				6965772F1D1BED85004A132F /* UIImage+ImageCompress.m in Sources */,
+				696577111D1BCFCA004A132F /* ChooseGoodsPropertyViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -413,9 +596,11 @@
 		};
 		696577001D1BCD23004A132F /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = BAB5C76D1E516934E2B02BF5 /* Pods-购物车弹窗.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = "购物车弹窗/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.iwala.-----";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -424,9 +609,11 @@
 		};
 		696577011D1BCD23004A132F /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 0E9152403C6BE91B16FA6BA4 /* Pods-购物车弹窗.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = "购物车弹窗/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.iwala.-----";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -498,6 +685,7 @@
 				696577011D1BCD23004A132F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		696577021D1BCD23004A132F /* Build configuration list for PBXNativeTarget "购物车弹窗Tests" */ = {
 			isa = XCConfigurationList;
@@ -506,6 +694,7 @@
 				696577041D1BCD23004A132F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		696577051D1BCD23004A132F /* Build configuration list for PBXNativeTarget "购物车弹窗UITests" */ = {
 			isa = XCConfigurationList;
@@ -514,6 +703,7 @@
 				696577071D1BCD23004A132F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

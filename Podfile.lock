@@ -1,0 +1,15 @@
+PODS:
+  - SKTagView (0.9.1)
+  - UITableView+FDTemplateLayoutCell (1.4)
+
+DEPENDENCIES:
+  - SKTagView
+  - UITableView+FDTemplateLayoutCell
+
+SPEC CHECKSUMS:
+  SKTagView: a60e322f9a5cef6197302cafcb7c69156daa140e
+  UITableView+FDTemplateLayoutCell: 234e1582bcc4e18461af91155123bb96538ed030
+
+PODFILE CHECKSUM: 67789d5efb7bd037870a1908a0fcbd6cd8fa30b7
+
+COCOAPODS: 1.0.0
